@@ -1,0 +1,4 @@
+﻿  RazerChroma.cpp
+c:\users\razer\desktop\visual studio c++\workspace2\razerchroma\razerchroma\razerchroma\razerchroma.cpp(215): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\razer\desktop\visual studio c++\workspace2\razerchroma\razerchroma\razerchroma\razerchroma.cpp(68): warning C4715: 'RazerChroma::initialize': not all control paths return a value
+  RazerChroma.vcxproj -> C:\Users\razer\Desktop\Visual Studio c++\workspace2\RazerChroma\RazerChroma\Debug\RazerChroma.exe
